@@ -36,3 +36,5 @@ GET /:shortUrl: Redirects to the original long URL based on the short URL.
 User authentication for tracking personal shortened URLs.
 Analytics for URL access counts and details.
 Custom short URLs.
+
+![screenshot](https://github.com/user-attachments/assets/197c88ab-7132-4334-a2da-dba511313ddd)
